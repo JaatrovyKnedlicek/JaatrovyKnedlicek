@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jano</h1>
-<h3 align="center">Im doing programs and games just for fun. Im from Slovakia.</h3>
+<h3 align="center">Im doing programs and gamey just for fun. Im from Slovakia. Some of my work:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaatrovyknedlicek&label=Profile%20views&color=0e75b6&style=flat" alt="jaatrovyknedlicek" /> </p>
 
