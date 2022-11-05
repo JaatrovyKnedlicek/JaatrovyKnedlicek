@@ -5,9 +5,9 @@ I'm from Slovakia. I'm doing programs just for fun. My work can be downloaded as
 
 #### My work:
 
-[SOFTWARE](https://github.com/JaatrovyKnedlicek/JankoPankoMALWARE)
+[SOFTWARE]()
 
-[MALWARE]()
+[MALWARE](https://github.com/JaatrovyKnedlicek/JankoPankoMALWARE)
 #### Skills:
 
 Phyton
