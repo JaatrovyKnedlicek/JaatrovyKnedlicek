@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on MC Server Manager<br>💬 Ask me about anything<br>⚡ Fun fact Myjava is nice town!
+🔭 I’m currently working on Easy LAN Message sender and Easy WiFi hosting<br>💬 Ask me about anything<br>⚡ Fun fact Myjava is a nice town!
 
 
 ## 🌐 Socials:
-Are on left side because bio generator broked it completly
+Are on the left side because the bio generator broked it completely
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
